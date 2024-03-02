@@ -6,4 +6,5 @@ if ($mysqli->connect_errno) {
 }
 
 echo "Se conecto";
+
 ?>
